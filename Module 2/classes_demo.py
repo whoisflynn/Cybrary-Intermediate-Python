@@ -13,7 +13,7 @@ class Person:
 class Employee(Person):
   def __init__(self, name, age, department):
     Person.__init__(self, name, age)
-    Self.department = department
+    self.department = department
     
 def extended_print_vals(self)
   print(‘Name: {}\nAge: {}’.format(self.name,self.age, self.department))
