@@ -5,10 +5,8 @@ There is a mismatch between the Module folders in this repo. The videos have the
 
 For this repo, I have numbered to Modules 1-3 to match the course description
 
-Module 1: I/O
-
-Module 2: Classes
-
-Module 3: Modules
+- Module 1: I/O
+- Module 2: Classes
+- Module 3: Modules
 
 The course can be found at this URL: https://app.cybrary.it/browse/course/intermediate-python
