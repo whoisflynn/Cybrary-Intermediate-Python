@@ -1,4 +1,4 @@
-#!/usr/bin/Python3
+#!/usr/bin/python3
 import sys
 def main():
   #Objective: Print cmd line arguments 1 at a time
